@@ -1,0 +1,6 @@
+function calculateAreaOfRectangle(length ,width) {
+    const sum =length * width ;
+    console.log(sum);
+}
+
+calculateAreaOfRectangle(20,4);
