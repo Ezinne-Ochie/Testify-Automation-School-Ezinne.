@@ -1,4 +1,6 @@
 const friendsArray = ['Kelechi', 'Bethel' ,'Sarah' ,'Toyin' ,'Ore']
 
-console.log(friendsArray)
+const bestFriend = friendsArray[4]
+
+console.log(bestFriend)
 
