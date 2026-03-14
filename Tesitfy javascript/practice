@@ -1,0 +1,15 @@
+const day = 'monday'
+
+switch(day){
+    case 'Friday':
+        console.log('TGIF')
+        break
+    case 'Saturday':
+        console.log('yay!!!')
+        break
+    case 'sunday':
+        console.log('happy sunday')
+        break 
+    default:
+        console.log('go to work')
+}
