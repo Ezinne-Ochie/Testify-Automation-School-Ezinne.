@@ -4,3 +4,5 @@ function calculateAreaOfRectangle(length ,width) {
 }
 
 calculateAreaOfRectangle(60,4);
+
+console.log(calculateAreaOfRectangle)
